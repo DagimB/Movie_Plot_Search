@@ -1,7 +1,7 @@
 # Wikipedia Movie PLot Search Models
 
 ## Getting started
-# Using Windows
+### Using Windows
 ```
 python -m venv venv
 source venv/Scripts/activate
