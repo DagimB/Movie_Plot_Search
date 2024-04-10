@@ -1,4 +1,4 @@
-# Wikipedia Movie PLot Search Models
+# Wikipedia Movie Plot Search Models
 
 ## Getting started
 ### Using Windows
